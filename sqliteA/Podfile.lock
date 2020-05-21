@@ -1,0 +1,22 @@
+PODS:
+  - IQKeyboardManagerSwift (6.5.0)
+  - SQLite.swift (0.12.0):
+    - SQLite.swift/standard (= 0.12.0)
+  - SQLite.swift/standard (0.12.0)
+
+DEPENDENCIES:
+  - IQKeyboardManagerSwift (= 6.5.0)
+  - SQLite.swift (= 0.12.0)
+
+SPEC REPOS:
+  trunk:
+    - IQKeyboardManagerSwift
+    - SQLite.swift
+
+SPEC CHECKSUMS:
+  IQKeyboardManagerSwift: 6cd19976c6e871907c4ed9127c2d3affdd4defc2
+  SQLite.swift: 7cad9db150a03716336e69469ec9559c85aece5b
+
+PODFILE CHECKSUM: 593f0eb708ab5b8052f9c6ea04e0609af0bba14d
+
+COCOAPODS: 1.8.4
